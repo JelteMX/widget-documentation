@@ -1,6 +1,6 @@
 # Troubleshooting `Check widgets`
 
-**This is copied from an answer I gave on the forum**
+**This is copied from [an answer I gave on the forum](https://forum.mendixcloud.com/link/questions/16242)**
 
 I had a problem recently where widgets woudn't build and the log only showed `"dojo:dist"` failed. So I did a bit of a dirty hack to make sure I get a better output. These are the steps (I did this for `MX 6.5.0`, but it's applicable in every version) :
 
